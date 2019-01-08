@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="index.php" method="post">
+    <form action="delta.php" method="post">
       <input type="number" name="a">
       <input type="number" name="b">
       <input type="number" name="c">
